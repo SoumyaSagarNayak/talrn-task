@@ -1,18 +1,5 @@
 import { motion } from 'framer-motion';
-import {
-  ShoppingCart,
-  Heart,
-  DollarSign,
-  Gamepad2,
-  GraduationCap,
-  Plane,
-  Building2,
-  Utensils,
-  Music,
-  Car,
-  Home as HomeIcon,
-  Smartphone
-} from 'lucide-react';
+import { ShoppingCart, Heart, DollarSign, Gamepad2, GraduationCap, Plane, Building2, Utensils, Music, Car, Hop as HomeIcon, Smartphone } from 'lucide-react';
 
 const industries = [
   {

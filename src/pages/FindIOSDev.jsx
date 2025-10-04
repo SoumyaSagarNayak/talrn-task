@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { motion } from 'framer-motion';
-import { Search, Filter } from 'lucide-react';
+import { Search, ListFilter as Filter } from 'lucide-react';
 import DeveloperCard from '../components/DeveloperCard';
 import HireModal from '../components/HireModal';
 import developersData from '../data/developers.json';

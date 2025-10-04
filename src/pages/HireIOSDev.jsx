@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { motion } from 'framer-motion';
-import { CheckCircle2, Users, Clock, Shield } from 'lucide-react';
+import { CircleCheck as CheckCircle2, Users, Clock, Shield } from 'lucide-react';
 
 const HireIOSDev = () => {
   const [formData, setFormData] = useState({

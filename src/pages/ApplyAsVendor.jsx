@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { motion } from 'framer-motion';
-import { CheckCircle2 } from 'lucide-react';
+import { CircleCheck as CheckCircle2 } from 'lucide-react';
 
 const ApplyAsVendor = () => {
   const [formData, setFormData] = useState({
