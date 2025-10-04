@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "Kumar J",
+    "title": "Senior iOS Developer",
+    "company": "McDonald's",
+    "image": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "skills": ["Swift", "UIKit", "SwiftUI"],
+    "experience": 8,
+    "country": "India"
+  },
+  {
+    "id": 2,
+    "name": "Thummar B",
+    "title": "iOS Developer",
+    "company": "Capgemini",
+    "image": "https://images.pexels.com/photos/1516680/pexels-photo-1516680.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "skills": ["Swift", "Core Data", "Firebase"],
+    "experience": 5,
+    "country": "India"
+  },
+  {
+    "id": 3,
+    "name": "Garg R",
+    "title": "Senior iOS Developer",
+    "company": "PayTM",
+    "image": "https://images.pexels.com/photos/1181690/pexels-photo-1181690.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "skills": ["Swift", "SwiftUI", "Combine"],
+    "experience": 7,
+    "country": "India"
+  },
+  {
+    "id": 4,
+    "name": "Pradhan R",
+    "title": "Lead iOS Developer",
+    "company": "Chartered Bank",
+    "image": "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "skills": ["Swift", "UIKit", "RxSwift"],
+    "experience": 10,
+    "country": "Singapore"
+  },
+  {
+    "id": 5,
+    "name": "Sarah Chen",
+    "title": "iOS Developer",
+    "company": "Spotify",
+    "image": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "skills": ["Swift", "SwiftUI", "GraphQL"],
+    "experience": 6,
+    "country": "United States"
+  },
+  {
+    "id": 6,
+    "name": "Michael Torres",
+    "title": "Senior iOS Engineer",
+    "company": "Uber",
+    "image": "https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "skills": ["Swift", "UIKit", "MapKit"],
+    "experience": 9,
+    "country": "Brazil"
+  },
+  {
+    "id": 7,
+    "name": "Elena Volkov",
+    "title": "iOS Developer",
+    "company": "Revolut",
+    "image": "https://images.pexels.com/photos/1130626/pexels-photo-1130626.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "skills": ["Swift", "Core Animation", "SnapKit"],
+    "experience": 4,
+    "country": "United Kingdom"
+  },
+  {
+    "id": 8,
+    "name": "James Kim",
+    "title": "Lead iOS Developer",
+    "company": "Samsung",
+    "image": "https://images.pexels.com/photos/1024311/pexels-photo-1024311.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "skills": ["Swift", "SwiftUI", "Combine"],
+    "experience": 11,
+    "country": "South Korea"
+  },
+  {
+    "id": 9,
+    "name": "Aisha Patel",
+    "title": "iOS Developer",
+    "company": "Zomato",
+    "image": "https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "skills": ["Swift", "UIKit", "CoreLocation"],
+    "experience": 5,
+    "country": "India"
+  },
+  {
+    "id": 10,
+    "name": "Lucas Santos",
+    "title": "Senior iOS Developer",
+    "company": "Nubank",
+    "image": "https://images.pexels.com/photos/1212984/pexels-photo-1212984.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "skills": ["Swift", "SwiftUI", "Security"],
+    "experience": 8,
+    "country": "Brazil"
+  },
+  {
+    "id": 11,
+    "name": "Nina Kowalski",
+    "title": "iOS Engineer",
+    "company": "Allegro",
+    "image": "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "skills": ["Swift", "UIKit", "Realm"],
+    "experience": 6,
+    "country": "Poland"
+  },
+  {
+    "id": 12,
+    "name": "Ahmed Hassan",
+    "title": "Senior iOS Developer",
+    "company": "Careem",
+    "image": "https://images.pexels.com/photos/1040880/pexels-photo-1040880.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "skills": ["Swift", "MapKit", "Firebase"],
+    "experience": 7,
+    "country": "UAE"
+  },
+  {
+    "id": 13,
+    "name": "Olivia Martinez",
+    "title": "iOS Developer",
+    "company": "Mercado Libre",
+    "image": "https://images.pexels.com/photos/1542085/pexels-photo-1542085.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "skills": ["Swift", "SwiftUI", "Alamofire"],
+    "experience": 4,
+    "country": "Argentina"
+  },
+  {
+    "id": 14,
+    "name": "Tom Anderson",
+    "title": "Lead iOS Engineer",
+    "company": "Netflix",
+    "image": "https://images.pexels.com/photos/1043471/pexels-photo-1043471.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "skills": ["Swift", "AVFoundation", "CoreData"],
+    "experience": 12,
+    "country": "United States"
+  },
+  {
+    "id": 15,
+    "name": "Yuki Tanaka",
+    "title": "iOS Developer",
+    "company": "Rakuten",
+    "image": "https://images.pexels.com/photos/1516680/pexels-photo-1516680.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "skills": ["Swift", "UIKit", "RxSwift"],
+    "experience": 5,
+    "country": "Japan"
+  }
+]
